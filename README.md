@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tejaharshitha
+- 👋 Hi, I’m @tejaharshitha235
 - 👀 I’m interested in ...coding and startups
 - 🌱 I’m currently learning ...python,java
 - 💞️ I’m looking to collaborate on ...projects,coding
-- 📫 How to reach me ...
+- 📫 How to reach me ...tejaharshithag235@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
